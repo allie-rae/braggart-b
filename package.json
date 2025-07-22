@@ -1,0 +1,22 @@
+{
+  "name": "braggart-b",
+  "version": "1.0.0",
+  "description": "Braggart's backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allie-rae/braggart-b.git"
+  },
+  "author": "Allie Robinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allie-rae/braggart-b/issues"
+  },
+  "homepage": "https://github.com/allie-rae/braggart-b#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
